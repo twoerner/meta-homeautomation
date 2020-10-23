@@ -1,0 +1,10 @@
+A layer for recipes related to "home-automation" things.
+
+Dependencies
+============
+  URI: openembedded-core
+  branch: (corresponding)
+
+Patches
+=======
+Please post any issues and/or pull requests on github.
